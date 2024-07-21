@@ -1,4 +1,4 @@
-package org.leetcode.weekly.july;
+package org.leetcode.weekly.july.week1;
 
 import java.util.Arrays;
 

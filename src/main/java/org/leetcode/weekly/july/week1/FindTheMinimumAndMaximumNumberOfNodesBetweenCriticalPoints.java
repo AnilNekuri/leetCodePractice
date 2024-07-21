@@ -1,4 +1,6 @@
-package org.leetcode.weekly.july;
+package org.leetcode.weekly.july.week1;
+import org.leetcode.weekly.july.ListNode;
+
 
 public class FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.leetcode.weekly.july;
+package org.leetcode.weekly.july.week1;
 
 public class ThreeConsecutiveOdds {
     public boolean threeConsecutiveOdds(int[] arr) {
